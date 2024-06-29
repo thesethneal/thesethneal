@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... Tech Elevator prework!
+- 🌱 I’m currently learning ... javascript.
+- 📫 How to reach me: ... sethaneal1@gmail.com
+- ⚡ Fun fact: ... I play guitar and piano!
