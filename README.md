@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... Tech Elevator prework!
-- 🌱 I’m currently learning ... javascript.
+- 🔭 I’m currently working on ... Tech Elevator class!
+- 🌱 I’m currently learning ... Java
 - 📫 How to reach me: ... sethaneal1@gmail.com
 - ⚡ Fun fact: ... I play guitar and piano!
