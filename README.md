@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... Tech Elevator class!
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Front-end web development
 - 📫 How to reach me: ... sethaneal1@gmail.com
 - ⚡ Fun fact: ... I play guitar and piano!
