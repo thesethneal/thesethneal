@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... finishing my bootcamp!
+- 🔭 I’m currently working on ... learning Python 3 & AWS!
 - 📫 How to reach me: ... sethaneal1@gmail.com
 - ⚡ Fun fact: ... I play guitar and piano!
