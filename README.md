@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... job hunting and learning Python 3 & AWS!
+- 🔭 I’m currently working on ... job hunting and learning Python 3, Swift, & AWS!
 - 📫 How to reach me: ... sethaneal1@gmail.com
 - ⚡ Fun fact: ... I play guitar and piano!
